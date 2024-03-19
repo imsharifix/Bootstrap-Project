@@ -1,0 +1,43 @@
+@import "../variables/variables";
+body {
+    font-family: Vazirmatn;
+    background-color: $primary-color;
+}
+.main{
+  margin-top: 6rem;
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+.vazirmatn {
+  font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+.nav-link {
+  font-weight: 700;
+}
+.active {
+  color: rgb(235, 149, 11) !important;
+}
+.header-btn__one{
+  cursor: pointer;
+}
+.svg-set{
+
+}
+
+.card{
+  width: 20rem;
+  cursor: pointer;
+
+}
+.card-svg{
+  margin: auto;
+}
+
+
+
+
+
+
